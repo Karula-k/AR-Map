@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: film
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4848051073094517003
+  m_GuidHigh: 10637739228301046169
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4811871910229074440
+      m_GuidHigh: 11284690939490033553
+    m_SerializedTextureGuid:
+      m_GuidLow: 4049918158762714413
+      m_GuidHigh: 15994196427722143707
+    m_Size: {x: 0.10123913, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Logo Baku UNEJ 2020 Super High Res
+    m_Texture: {fileID: 2800000, guid: a674a52d331b3834db3733fee8ccf6dd, type: 3}
